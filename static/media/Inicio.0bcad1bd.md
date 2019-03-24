@@ -11,7 +11,7 @@ Para dar início a seu estágio curricular obrigatório siga as seguintes recome
     **>** Se não estiver cadastrado, clique **[aqui](#proposta_concedente)** para propor o cadastro e aguarde o contato do NURI.
 
 3. **Colete as informações necessárias**  
-    Depois de estar ciente das diretrizes que orientam o estágio curricular obrigatório, você deve coletar todas as informações necessárias para a confecção da documentação do estágio curricular (**acesse [aqui]**).
+    Depois de estar ciente das diretrizes que orientam o estágio curricular obrigatório, você deve coletar todas as informações necessárias para a confecção da documentação do estágio curricular (**acesse [aqui](http://www.ifbaiano.edu.br/unidades/gmb/estagio-curricular/discente/informacoes-necessarias)**).
 4. **REQUERIMENTO**  
 Com todas as informações necessárias:  
 **> Preencha** o Requerimento de Estágio (**acesse [aqui](#requerimento)**);  
